@@ -27,7 +27,7 @@
 <div style="text-align: center;">
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏅 Stats</h2>
    <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nojimin&repo=github-readme-stats" />
       <img src="https://github-readme-stats.vercel.app/api?username=nojimin&show_icons=true"/>
    </div>
 </div>
