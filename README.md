@@ -1,13 +1,13 @@
 <div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:BCC7DC,25:CAC2D1,50:FAD4D2,75:FDDED7,100:FAE5D5&height=300&section=header&text=nojimin's%20github&fontSize=90&animation=twinkling&fontColor=FECC3D" />
    </div>
-   <div style="text-align: left;"> 
+   <div style="text-align: center;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
    </div>
    <div style="text-align: center;">
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-   <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
+   <div style="margin: ; text-align: left;" "text-align: center;"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
@@ -22,14 +22,14 @@
    </div>
    <div style="text-align: center;">
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-   <div style="text-align: left;"> <a href=blog href> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hktysh/posts"> </a>
+   <div style="text-align: center;"> <a href=blog href> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@hktysh/posts"> </a>
         <a href=mailto:sh7606555@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sh7606555@gmail.com"> </a>
          </div>  <br> 
    <div style="text-align: center;">  </div> 
    </div>
    <div style="text-align: center;"> 
    <h2 style="border-bottom: 1px solid #; color: #282d33;"> 🏅 Stats </h2> 
-       <div style="text-align: left;"> 
+       <div style="text-align: center;"> 
              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojimin&layout=compact&hide=javascript,css,scss&langs_count=8"/>
 <img src=https://github-readme-stats.vercel.app/api?username=nojimin&show_icons=true
          /> </div> 
