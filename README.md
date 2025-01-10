@@ -16,7 +16,7 @@
 <div style="text-align: center;">
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
    <div>
-      <a href="https://velog.io/@hktysh/posts">
+      <a href="https://sh76065.tistory.com/">
          <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
       </a>
       <a href="mailto:sh7606555@gmail.com">
